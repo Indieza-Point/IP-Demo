@@ -27,3 +27,15 @@ The Application is Developed by [Simeon Valev(Indieza)](https://github.com/indie
 - Download files from library, library folder structure, hole library and functionality to download files as a archive
 - Add data to List based on some requrements which are related to that what data type Field you fill
 - Duplicate list structures, there 2 option, copy all lists with there fields or copy list with related content types, fields amd site fields. Also have a logic for data duplication for target lists, duplication template creation which is like a back-up file
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Indieza-Point/IP-Demo/main/Images/01.jpg" width="150" alt="accessibility text">
+  <img src="https://raw.githubusercontent.com/Indieza-Point/IP-Demo/main/Images/02.jpg" width="150" title="hover text">
+  <img src="https://raw.githubusercontent.com/Indieza-Point/IP-Demo/main/Images/03.1.jpg" width="150" alt="accessibility text">
+  <img src="https://raw.githubusercontent.com/Indieza-Point/IP-Demo/main/Images/03.2.jpg" width="150" alt="accessibility text">
+  <img src="https://raw.githubusercontent.com/Indieza-Point/IP-Demo/main/Images/04.1.jpg" width="150" alt="accessibility text">
+  <img src="https://raw.githubusercontent.com/Indieza-Point/IP-Demo/main/Images/04.2.jpg" width="150" alt="accessibility text">
+  <img src="https://raw.githubusercontent.com/Indieza-Point/IP-Demo/main/Images/05.jpg" width="150" alt="accessibility text">
+  <img src="https://raw.githubusercontent.com/Indieza-Point/IP-Demo/main/Images/06.jpg" width="150" alt="accessibility text">
+</p>
+
