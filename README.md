@@ -1,5 +1,5 @@
 # :information_source: Indieza Point - Local SharePoint Manipulation Software
-## Local Application for manipulating SharePoint Websites
+## :blue_book: Local Application for manipulating SharePoint Websites
 
 Indieza Point is a Console Application developed on C# programming language. The idea of the application is to combine all possible operation related to the SharePoint List and SharePoint Website.
 
