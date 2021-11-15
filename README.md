@@ -10,7 +10,7 @@ Indieza Point is a Console Application developed on C# programming language. The
 - [EPPlus](https://www.nuget.org/packages/EPPlus/)
 
 ## :floppy_disk: Need To Be Installed
-- .NET Framework 4.8 or higher
+- .NET 6.0 or higher
 - MS Excel
 - Stable Internet Connection
 
