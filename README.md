@@ -5,8 +5,8 @@ Indieza Point is a Console Application developed on C# programming language. The
 
 ## :hammer: Used Technologies
 
-- .NET Framework 4.8
-- [SharePointPnPCoreOnline](https://www.nuget.org/packages/SharePointPnPCoreOnline)
+- .NET 6.0
+- [PnPCore SDK](https://pnp.github.io/pnpcore/)
 - [EPPlus](https://www.nuget.org/packages/EPPlus/)
 
 ## :floppy_disk: Need To Be Installed
