@@ -1,18 +1,13 @@
-# :information_source: Indieza Point - Local SharePoint Manipulation Software
-## :blue_book: Local Application for manipulating SharePoint Websites
+# :information_source: Indieza Point - Cloud SharePoint Manipulation Software
+## :blue_book: Cloud Application for manipulating SharePoint Websites
 
-Indieza Point is a Console Application developed on C# programming language. The idea of the application is to combine all possible operation related to the SharePoint List and SharePoint Website.
+Indieza Point is a Cloud Application developed on C# programming language Blazor technology. The idea of the application is to combine all possible operation related to the SharePoint List and SharePoint Website.
 
 ## :hammer: Used Technologies
 
 - .NET 6.0
 - [PnPCore SDK](https://pnp.github.io/pnpcore/)
 - [EPPlus](https://www.nuget.org/packages/EPPlus/)
-
-## :floppy_disk: Need To Be Installed
-- .NET 6.0 or higher
-- MS Excel
-- Stable Internet Connection
 
 ## :computer: Development
 
